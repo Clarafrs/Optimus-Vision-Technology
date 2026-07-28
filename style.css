@@ -76,3 +76,50 @@ h2 {
         border-bottom: 2px solid #ccc;
     }
 }
+/* Categoria/Tag do Projeto */
+.tag {
+    display: inline-block;
+    background-color: #e0e0e0;
+    color: #555;
+    font-size: 12px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+/* Texto da Descrição */
+.descricao {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* Lista de Detalhes (Data, Ferramentas, etc.) */
+.detalhes {
+    list-style: none; /* Remove as bolinhas da lista */
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+.detalhes li {
+    margin-bottom: 5px;
+}
+
+/* Botão de Link para o Projeto */
+.btn-link {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #2c3e50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 13px;
+    transition: background 0.3s;
+}
+
+.btn-link:hover {
+    background-color: #34495e;
+}
