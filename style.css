@@ -1,4 +1,3 @@
-/* Configuracoes Gerais */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -18,7 +17,6 @@ header {
     color: white;
 }
 
-/* Estrutura de Divisao da Tela */
 .container {
     display: flex; /* Coloca as colunas lado a lado */
     min-height: 100vh;
