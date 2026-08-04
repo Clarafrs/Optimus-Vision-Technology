@@ -18,7 +18,7 @@ header {
 }
 
 .container {
-    display: flex; /* Coloca as colunas lado a lado */
+    display: flex; 
     min-height: 100vh;
 }
 
