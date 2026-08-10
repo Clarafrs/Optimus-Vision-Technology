@@ -188,8 +188,8 @@ h2 {
     }
 }
 .card-header img {
-    width: 25%;
-    height: 75x;
+    width: 50%;
+    height: 100x;
     object-fit: cover;
     display: block;
 }
